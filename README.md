@@ -9,3 +9,5 @@ via wechat or win10 cortana(search for xiaobin first)
 通过模拟键盘点击ctrl+v和enter实现
 
 可以在电脑版微信使用，也可以在win10小娜框中使用（要先找到小冰）
+
+![img](1.png)
